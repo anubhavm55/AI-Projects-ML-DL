@@ -1,2 +1,2 @@
-# AI-Projects-ML-DL
-Contribute your college AI projects here
+# KPMG-Capstone
+KPMG Capstone Project Repository
